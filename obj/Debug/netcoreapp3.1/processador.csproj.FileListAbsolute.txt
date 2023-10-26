@@ -1,0 +1,13 @@
+C:\Users\Fred\Desktop\processador\bin\Debug\netcoreapp3.1\processador.exe
+C:\Users\Fred\Desktop\processador\bin\Debug\netcoreapp3.1\processador.deps.json
+C:\Users\Fred\Desktop\processador\bin\Debug\netcoreapp3.1\processador.runtimeconfig.json
+C:\Users\Fred\Desktop\processador\bin\Debug\netcoreapp3.1\processador.runtimeconfig.dev.json
+C:\Users\Fred\Desktop\processador\bin\Debug\netcoreapp3.1\processador.dll
+C:\Users\Fred\Desktop\processador\bin\Debug\netcoreapp3.1\processador.pdb
+C:\Users\Fred\Desktop\processador\obj\Debug\netcoreapp3.1\processador.csprojAssemblyReference.cache
+C:\Users\Fred\Desktop\processador\obj\Debug\netcoreapp3.1\processador.AssemblyInfoInputs.cache
+C:\Users\Fred\Desktop\processador\obj\Debug\netcoreapp3.1\processador.AssemblyInfo.cs
+C:\Users\Fred\Desktop\processador\obj\Debug\netcoreapp3.1\processador.csproj.CoreCompileInputs.cache
+C:\Users\Fred\Desktop\processador\obj\Debug\netcoreapp3.1\processador.dll
+C:\Users\Fred\Desktop\processador\obj\Debug\netcoreapp3.1\processador.pdb
+C:\Users\Fred\Desktop\processador\obj\Debug\netcoreapp3.1\processador.genruntimeconfig.cache
