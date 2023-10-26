@@ -43,3 +43,7 @@ Esse processador foi projetado para laptops e dispositivos móveis, e é otimiza
 O Ryzen 3 3300U foi uma escolha popular para laptops de entrada e modelos de orçamento, oferecendo um bom equilíbrio entre desempenho e eficiência energética para usuários que realizam tarefas cotidianas, como navegação na web, produtividade de escritório e entretenimento multimídia.
 
 Desde o lançamento do Ryzen 3 3300U, a AMD continuou a desenvolver e lançar novas gerações de processadores Ryzen, com melhorias em desempenho, eficiência e recursos. Portanto, é importante considerar as opções mais recentes disponíveis no mercado ao escolher um laptop ou dispositivo com processador AMD.
+
+--- 
+
+![](9xebfp.png)
